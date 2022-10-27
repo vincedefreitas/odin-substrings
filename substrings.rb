@@ -11,8 +11,8 @@ def substrings(string, array)
             end
         end
     end
-    p word_hash
+    word_hash
 end
 
-substrings("Howdy partner, sit down! How's it going?", dictionary)
+puts substrings("Howdy partner, sit down! How's it going?", dictionary)
 
